@@ -5,5 +5,8 @@
   "repository": "https://github.com/ram2104/semaphore-demo-monorepo-javascript.git",
   "author": "Ram Krishna <ram.krishna3@tesco.com>",
   "license": "MIT",
-  "packageManager": "yarn@3.2.0"
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
