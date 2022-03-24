@@ -1,0 +1,9 @@
+{
+  "name": "lerna-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ram2104/semaphore-demo-monorepo-javascript.git",
+  "author": "Ram Krishna <ram.krishna3@tesco.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.0"
+}
